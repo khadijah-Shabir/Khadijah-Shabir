@@ -37,7 +37,7 @@
 # 🎯 GitHub Stats:
 <p align="center">
  <a href="https://github.com/khadijah-Shabir">
-<img  height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khadijah-Shabir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> <img  height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khadijah-Shabir&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+<img  height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khadijah-Shabir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> <img  height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khadijah-Shabir&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
  </a>
 </p>
 
