@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi,I'm Khadijah Shabir</h1>
 
 <!--
 **khadijah-Shabir/Khadijah-Shabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Principal UGRAD GRANTEE for SPRING 2025
+- ⚡ Content Writer by passion 
+- ⚡ LOVE working with Tech business ventures, helping them with their writing needs. 
+- 🌱 Practicing Leetcode at ICodeGuru
+- 🌱 Actively working on DSA and Leetcode problems 
+- 🌱 Actively working on my Typing speed
+- 💬 Don't hesitate to reach out for Business and Coding related discussions. 
+- 😄 <b>2024 goals:<b> DSA and Leetcode Proficiency along with MERN stack dev
+- 📫 How to reach me: 
+
+
+
 -->
