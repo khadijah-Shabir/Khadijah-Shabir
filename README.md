@@ -11,11 +11,11 @@
 -  💬 Don't hesitate to reach out for Business and Coding related discussions and collaborations.
 
 
-#Skills:
+# Skills:
 <table>
   <tr>
     <td>
-      <img strc="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png"/>
+      <img strc="https://w7.pngwing.com/pngs/185/866/png-transparent-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-text-thumbnail.png"/>
     </td>
   </tr>
 </table>
