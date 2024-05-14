@@ -33,6 +33,10 @@
     
   </tr>
 </table>
+# Github Stats
+<div align="center">
+  [![Khadijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadijah-Shabir)](https://github.com/khadijah-Shabir/github-readme-stats)
+</div>
 
 # Connect With Me:
 <div align="left">
