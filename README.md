@@ -18,6 +18,9 @@
     <td>
       <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png"width="100px" height="100px"/>
     </td>
+    <td>
+      <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"width="100px" height="100px"/>
+    </td>
   </tr>
 </table>
 
