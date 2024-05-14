@@ -43,7 +43,7 @@
 
  <p align="center">
  <a href="https://github.com/khadijah-Shabir"> 
- <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=khadijah-Shabir&theme=algolia&hide_border=true" /> 
+ <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=khadijah-Shabir&theme=algolia&hide_border=true" /> 
  </a> 
  </p>
 
