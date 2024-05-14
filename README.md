@@ -27,6 +27,9 @@
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"width="150px" height="100px"/>
     </td> 
+     <td>
+      <img src="https://github.com/khadijah-Shabir/Khadijah-Shabir/blob/main/image-60.png "width="150px" height="100px"/ >
+    </td> 
   </tr>
 </table>
 
