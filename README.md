@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td>
-      <img strc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsubI1xnS2EsbFC7IKOtHXy3o2yp5zNGHX8-mLk-0nVw&s"/>
+      <img strc="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsubI1xnS2EsbFC7IKOtHXy3o2yp5zNGHX8-mLk-0nVw&s](https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png)"/>
     </td>
   </tr>
 </table>
