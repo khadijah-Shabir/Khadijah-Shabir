@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png"width="180px" height="100px"/>
+      <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png"width="100px" height="100px"/>
     </td>
   </tr>
 </table>
