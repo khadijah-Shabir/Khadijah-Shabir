@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td>
-      <img strc="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+      <img strc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsubI1xnS2EsbFC7IKOtHXy3o2yp5zNGHX8-mLk-0nVw&s"/>
     </td>
   </tr>
 </table>
