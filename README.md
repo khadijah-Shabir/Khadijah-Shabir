@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td>
-      <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsubI1xnS2EsbFC7IKOtHXy3o2yp5zNGHX8-mLk-0nVw&s](https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png)"/>
+      <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png" />
     </td>
   </tr>
 </table>
