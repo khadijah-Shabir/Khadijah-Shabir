@@ -23,7 +23,7 @@
 # Connect With Me:
 <div align="center">
 <a href="https://www.linkedin.com/in/khadijah-shabir/">Linkedin
-<img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"/>
 </a>
 </div>
 
