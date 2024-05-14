@@ -35,16 +35,7 @@
 </table>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khadijah-Shabir&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijah-Shabir&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=khadijah-Shabir&theme=city_light&hide_border=false)
-
----
-[![](https://visitcount.itsvg.in/api?id=khadijah-Shabir&icon=6&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+# 🎯 GitHub Stats:
 <p align="center">
  <a href="https://github.com/khadijah-shabir">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khadijah-Shabir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
