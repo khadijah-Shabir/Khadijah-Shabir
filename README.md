@@ -22,7 +22,7 @@
 </table>
 
 # Connect With Me:
-<div align="center">
+<div align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png""width="25px" height="25px"/>
 <div align="center">
 <a href="https://www.linkedin.com/in/khadijah-shabir/">Linkedin</a>
