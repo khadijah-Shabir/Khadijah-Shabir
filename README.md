@@ -28,7 +28,7 @@
       <img src="https://yaxadigital.com/wp-content/uploads/2023/03/content-writing-2.png"width="180px" height="100px"/>
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"width="100px" height="100px"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"width="150px" height="100px"/>
     </td>
     
   </tr>
