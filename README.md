@@ -6,9 +6,9 @@
 - 🌱 Practicing Leetcode at ICodeGuru
 - 🌱 Actively working on my Typing speed
 - 🌱 Actively working on DSA and Leetcode problems 
-- 💬 Don't hesitate to reach out for Business and Coding related discussions. 
 - 😄 2024 goals:DSA and Leetcode Proficiency along with MERN stack dev.
-- ⚡ LOVE working with Tech business ventures, helping them with their writing needs. 
+- ⚡ LOVE working with Tech business ventures, helping them with their writing needs.
+-  💬 Don't hesitate to reach out for Business and Coding related discussions and collaborations. 
 
 
 
