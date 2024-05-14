@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td>
-      <img strc="https://w7.pngwing.com/pngs/185/866/png-transparent-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-text-thumbnail.png"/>
+      <img strc="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
     </td>
   </tr>
 </table>
