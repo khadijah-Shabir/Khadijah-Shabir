@@ -2,7 +2,6 @@
 
 # About Me:
 
-- ⚡ Principal UGRAD GRANTEE for SPRING 2025
 - ⚡ Content Writer by passion and profession
 - 🌱 Practicing Leetcode at ICodeGuru regularly
 - 🌱 Actively working on my Typing speed at Typing.com
