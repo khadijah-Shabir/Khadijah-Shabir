@@ -12,24 +12,71 @@
 # Skills:
 <table>
   <tr>
-    <td>
-      <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png"width="100px" height="100px"/>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/cplusplus" width="60" height="60" alt="C/C++"/><br/>
+      <sub>C / C++</sub>
     </td>
-    <td>
-      <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"width="100px" height="100px"/> 
-      </td>
-      <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"width="100px" height="100px"/>
-      </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"width="150px" height="100px"/>
-    </td> 
-     <td>
-      <img src="https://github.com/khadijah-Shabir/Khadijah-Shabir/blob/main/image-60.png "width="150px" height="100px"/ >
-    </td> 
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/python" width="60" height="60" alt="Python"/><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/pytorch" width="60" height="60" alt="PyTorch"/><br/>
+      <sub>PyTorch</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/tensorflow" width="60" height="60" alt="TensorFlow"/><br/>
+      <sub>TensorFlow</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/keras" width="60" height="60" alt="Keras"/><br/>
+      <sub>Keras</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/opencv" width="60" height="60" alt="OpenCV"/><br/>
+      <sub>OpenCV</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/scikitlearn" width="60" height="60" alt="Scikit-Learn"/><br/>
+      <sub>Scikit-Learn</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/numpy" width="60" height="60" alt="NumPy"/><br/>
+      <sub>NumPy</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/pandas" width="60" height="60" alt="Pandas"/><br/>
+      <sub>Pandas</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/mysql" width="60" height="60" alt="MySQL & SQL"/><br/>
+      <sub>MySQL / SQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="60" height="60" alt="MATLAB"/><br/>
+      <sub>MATLAB</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/git" width="60" height="60" alt="Git"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/latex" width="60" height="60" alt="LaTeX"/><br/>
+      <sub>LaTeX</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/khadijah-Shabir/Khadijah-Shabir/blob/main/image-60.png" width="60" height="60" alt="Custom Skill Icon"/><br/>
+      <sub>Tools &amp; Platforms</sub>
+    </td>
+    <td align="center">
+      <sub><strong>Domains:</strong><br/>ML • DL • CV<br/>Remote Sensing &amp;<br/>Medical Imaging</sub>
+    </td>
   </tr>
 </table>
-
 
 # 🎯 GitHub Stats:
 <p align="center">
