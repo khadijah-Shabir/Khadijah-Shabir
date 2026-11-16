@@ -2,11 +2,10 @@
 
 # About Me:
 
-- 🌱 Practicing Leetcode at ICodeGuru regularly
-- 🌱 Actively working on my Typing speed at Typing.com
-- 🌱 Actively working on problem solving skills , DSA and Leetcode.
-- 🌱 2024 goals: DSA and Leetcode Proficiency along with MERN stack dev.
-- ⚡ LOVE working with Tech business ventures, helping them with their writing needs.
+- 🌱 UGRAD scholar spring 2025
+- 🌱 Mitacs Globalink Research intern'26
+- 🌱 Research Assistant at Center of AI, Prince Muhammad bin Fahd University, Saudi Arabia. 
+- 🌱 Member Deep Intelligence Lab: https://deepintelligencelab.com/
 -  💬 Don't hesitate to reach out for Business and Coding related discussions and collaborations.
 
 
